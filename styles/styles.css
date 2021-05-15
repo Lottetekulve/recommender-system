@@ -23,6 +23,7 @@ main{
 }
 
 .mainmusic{
+    height: 100%;
     margin: 0 20px;
 }
 
@@ -278,7 +279,7 @@ input{
   height: 100px;
   position: relative;
   padding: 25px;
-  margin: 50px auto;
+  margin: 50px auto 0;
 }
 
 .rating-0 {
@@ -296,7 +297,7 @@ div.end{
     overflow: none;
     height: 200px;
     padding: 20px;
-    margin: 50px auto 0;
+    margin: 20px auto 0;
 }
 
 .end textarea{
