@@ -3,7 +3,7 @@ html{
     height: 100vh;;
 }
 body{
-    padding: 20px 50px 50px 50px;
+    padding: 0px 50px 50px 50px;
     background-image: url("../images/img.png");
     background-repeat: no-repeat;
     background-size: cover;
@@ -89,7 +89,7 @@ button.index{
 }
 
 .index h3{
-    font-size: 36px;
+    font-size: 30px;
 }
 
 div{
