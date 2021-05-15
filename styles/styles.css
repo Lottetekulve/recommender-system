@@ -15,7 +15,7 @@ main{
     /* background-color: white; */
     margin: 20px auto;
     width: 800px;
-    height: 600px;
+    height: 500px;
     /* box-shadow: 5px 5px 20px #454C6A; */
     /* border-radius: 25px; */
     text-align: center;
@@ -82,7 +82,7 @@ button.index{
     box-shadow: 5px 5px 20px #454C6A;
     margin: 50px 20px 0;
     width: 350px;
-    height: 400px;
+    height: 350px;
     border-radius: 41px;
     border: none;
     background-color: #417881;
