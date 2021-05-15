@@ -140,7 +140,7 @@ button.finish{
 
 button.random{
     box-shadow: 5px 5px 20px #454C6A;
-    margin: 70px 20px 0;
+    margin: 15px 20px 0;
     width: 270px;
     height: 70px;
     border-radius: 20px;
@@ -234,7 +234,7 @@ label{
     background-color: #417881;
     text-align: center center;
     width: 270px;
-    padding: 15px;
+    padding: 10px;
     border-radius: 20px;
     margin: 5px;
     font-size: 36px;
